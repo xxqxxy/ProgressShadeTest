@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestAllProject</string>
+    <string name="tv_call">call</string>
+    <string name="tv_text" >text</string>
+    <string name="tv_email" >email</string>
+
+</resources>

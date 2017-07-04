@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+   >
+
+    -<item
+        android:id="@+id/action_call"
+        android:icon="@mipmap/ic_launcher"
+        android:orderInCategory="100"
+        android:title="@string/tv_call"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_text"
+        android:icon="@mipmap/ic_launcher"
+        android:orderInCategory="100"
+        android:title="@string/tv_text"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_email"
+        android:icon="@mipmap/ic_launcher"
+        android:orderInCategory="100"
+        android:title="@string/tv_email"
+        app:showAsAction="never" />
+
+</menu>
