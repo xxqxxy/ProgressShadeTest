@@ -38,7 +38,6 @@ public class SuspendMenuActivity extends Activity  {
         lv_list.setAdapter(iAdapter);
         initListView();
 
-
     }
 
     private void initFsMenu(){
