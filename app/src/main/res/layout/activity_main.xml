@@ -33,11 +33,33 @@
 
             <Button android:layout_width="match_parent" android:layout_height="wrap_content"
                 android:padding="8dp" android:textSize="18sp" android:textColor="@color/cr_white"
-                android:text="悬浮菜单" android:gravity="center"
+                android:text="底部右边悬浮菜单" android:gravity="center"
                 android:background="@color/cr_green_5" android:id="@+id/btn_suspend_menu"
                 android:layout_marginLeft="36dp" android:layout_marginRight="36dp"
                 android:layout_marginTop="16dp"/>
 
+            <Button android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:padding="8dp" android:textSize="18sp" android:textColor="@color/cr_white"
+                android:text="底部中间悬浮菜单" android:gravity="center"
+                android:background="@color/cr_green_5" android:id="@+id/btn_middle_menu"
+                android:layout_marginLeft="36dp" android:layout_marginRight="36dp"
+                android:layout_marginTop="16dp"/>
+
+
+            <Button android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:padding="8dp" android:textSize="18sp" android:textColor="@color/cr_white"
+                android:text="AndFix热修复" android:gravity="center"
+                android:background="@color/cr_green_5" android:id="@+id/btn_fix"
+                android:layout_marginLeft="36dp" android:layout_marginRight="36dp"
+                android:layout_marginTop="16dp" android:visibility="gone"/>
+
+
+            <Button android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:padding="8dp" android:textSize="18sp" android:textColor="@color/cr_white"
+                android:text="CoordinatorLayout" android:gravity="center"
+                android:background="@color/cr_green_5" android:id="@+id/btn_cdl"
+                android:layout_marginLeft="36dp" android:layout_marginRight="36dp"
+                android:layout_marginTop="16dp"  />
 
 
         </LinearLayout>

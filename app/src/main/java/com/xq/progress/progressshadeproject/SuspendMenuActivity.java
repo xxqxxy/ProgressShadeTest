@@ -46,15 +46,12 @@ public class SuspendMenuActivity extends Activity  {
             @Override
             public boolean onMenuItemSelected(MenuItem menuItem) {
                 Toast.makeText(SuspendMenuActivity.this, "点击了："+menuItem.getTitle(), Toast.LENGTH_SHORT).show();
-
                 return super.onMenuItemSelected(menuItem);
             }
         });
     }
 
-
    private void  initListView(){
-
        initLVData();
    }
     private void initLVData(){

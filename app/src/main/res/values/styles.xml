@@ -5,16 +5,27 @@
          2. colorPrimaryDark :状态栏背景色
          3. textcolorPrimary : 标题栏字体色
          4. colorAccent : 滚动条、Swtich按钮、光标等颜色
-         5. windowBackground : 除了状态栏标题栏底部菜单栏背景色-->
+         5. windowBackground : 除了状态栏标题栏底部菜单栏背景色
+          <item name="android:windowNoTitle">true</item>
+ <item name="android:windowNoTitle">true</item>
+         -->
     <!-- Base application theme. -->
+
+
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/cr_black</item>
         <item name="colorAccent">@color/colorAccent</item>
+
         <item name="android:windowNoTitle">true</item>
+        <!--隐藏原来的ActionBar，为了在本project中使用ToolBar-->
+        <item name="windowActionBar">false</item>
+
     </style>
-
-
+    <style name="MyTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+    </style>
 
 </resources>

@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.xq.progress.progressshadeproject">
-
+    package="com.xq.progress.progressshadeproject"
+    xmlns:tools="http://schemas.android.com/tools">
+<!--  android:theme="@style/AppTheme"  ,android:theme-->
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme" >
+        android:theme="@style/AppTheme"
+        tools:replace="Android:icon,android:theme"
+        android:name=".XqApplication">
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -18,11 +20,25 @@
 
         <activity android:name=".FillActivity"
             android:exported="false"
-            android:screenOrientation="portrait"></activity>
+            android:screenOrientation="portrait"
+            ></activity>
 
         <activity android:name=".SuspendMenuActivity"
             android:exported="false"
-            android:screenOrientation="portrait"></activity>
+            android:screenOrientation="portrait"
+           ></activity>
+
+        <activity android:name=".BottomMiddleMenuActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+          ></activity>
+
+        <activity android:name=".CoordinatorLayoutActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyTheme"
+           ></activity>
+
 
     </application>
 
