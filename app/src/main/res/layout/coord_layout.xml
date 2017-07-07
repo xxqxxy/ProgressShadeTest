@@ -46,6 +46,7 @@
         android:layout_height="match_parent"
         android:fillViewport="true"
         android:fitsSystemWindows="true"
+        android:id="@+id/ns_view"
         app:layout_behavior="@string/appbar_scrolling_view_behavior"
         >
 
@@ -67,6 +68,8 @@
         android:layout_height="wrap_content"
         android:layout_gravity="end|bottom"
         android:layout_margin="16dp"
-        android:src="@mipmap/ic_launcher" />
+        app:backgroundTint="@color/colorAccent"
+        app:rippleColor="@color/colorAccent"
+        android:src="@mipmap/icon_about" />
 
 </android.support.design.widget.CoordinatorLayout>
