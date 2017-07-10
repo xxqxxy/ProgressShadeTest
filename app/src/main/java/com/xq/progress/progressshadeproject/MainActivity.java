@@ -75,7 +75,14 @@ public class MainActivity extends Activity {
                 startActivity(new Intent(mContext,CoordinatorLayoutActivity.class));
             }
         });
+        //列表刷新
+       ((Button) findViewById(R.id.btn_pull_refresh)).setOnClickListener(new OnClickListener() {
 
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(mContext,pullRefleshActivity.class));
+            }
+        });
     }
 
 

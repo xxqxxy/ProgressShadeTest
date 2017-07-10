@@ -9,6 +9,7 @@ import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.View;
 import android.view.animation.AlphaAnimation;
+import android.widget.ListView;
 
 import com.xq.progressproject.progressproject.utils.comFunction;
 
@@ -59,6 +60,9 @@ public class CoordinatorLayoutActivity extends AppCompatActivity {
 
 
         ns_view = (NestedScrollView) findViewById(R.id.ns_view);
+        ListView listView;
+
+
         /**滑动监听设置返回键是否可见**/
         ns_view.setOnScrollChangeListener(new NestedScrollView.OnScrollChangeListener() {
             @Override
