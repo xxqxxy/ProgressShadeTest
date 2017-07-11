@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-import com.xq.progressproject.view.MyPtrRefresher;
+import com.xq.progressproject.view.StoreHouseHeader;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,7 +14,6 @@ import java.util.List;
 import in.srain.cube.views.ptr.PtrClassicFrameLayout;
 import in.srain.cube.views.ptr.PtrDefaultHandler2;
 import in.srain.cube.views.ptr.PtrFrameLayout;
-import in.srain.cube.views.ptr.header.StoreHouseHeader;
 
 /**
  * Created by xxq on 2017/7/10.
@@ -66,16 +65,26 @@ public class pullRefleshActivity extends AppCompatActivity{
         adapter = new ArrayAdapter<String>(pullRefleshActivity.this, android.R.layout.simple_list_item_1, dataSource);
         lv.setAdapter(adapter);
         // 为布局设置头部和底部布局
-        ptrLayout.setHeaderView(new MyPtrRefresher(pullRefleshActivity.this));
-        // ptrLayout.setFooterView(new MyPtrRefresher(MainActivity.this));
+//        ptrLayout.setHeaderView(new MyPtrRefresher(pullRefleshActivity.this));
+//        ptrLayout.addPtrUIHandler(new MyPtrHandler(pullRefleshActivity.this, ptrLayout));
+//         ptrLayout.setFooterView(new MyPtrRefresher(pullRefleshActivity.this));
 //        ptrLayout.addPtrUIHandler(new MyPtrHandler(pullRefleshActivity.this, ptrLayout));
 
 
+//        StoreHouseHeader header = new StoreHouseHeader(pullRefleshActivity.this ,null , R.style.MyTheme );
+//        header.setPadding(0,30, 0, 30);
+//        header.setTextColor(getResources().getColor(R.color.cr_green_5));
+//        header.initWithString(getResources().getString(R.string.tv_loading).toLowerCase());
+
+
+//        ptrLayout.setHeaderView(header);
+//        ptrLayout.addPtrUIHandler(header);
 
         StoreHouseHeader footer = new StoreHouseHeader(pullRefleshActivity.this);
         footer.setPadding(0,30, 0, 30);
         footer.setTextColor(getResources().getColor(R.color.cr_green_5));
-        footer.initWithString("loading");
+        footer.initWithString(getResources().getString(R.string.tv_loading));
+
 
         ptrLayout.setFooterView(footer);
         ptrLayout.addPtrUIHandler(footer);

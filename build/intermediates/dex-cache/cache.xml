@@ -66,6 +66,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.github.elevenetc\textsurface\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88f4d83ae66ad71758931b65ad179a85e6e304ef">
+        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.github.elevenetc-textsurface-0.9.0_b21c88ad77080fcb3977be3a55fb6f9fdb0dd418.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\io.github.yavski\fab-speed-dial\1.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"

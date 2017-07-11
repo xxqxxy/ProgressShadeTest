@@ -83,6 +83,14 @@ public class MainActivity extends Activity {
                 startActivity(new Intent(mContext,pullRefleshActivity.class));
             }
         });
+        //TextSurfaceAnimation
+        ((Button) findViewById(R.id.btn_text_surface)).setOnClickListener(new OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(mContext,TextSurfaceActivity.class));
+            }
+        });
     }
 
 

@@ -42,8 +42,12 @@
         <activity android:name=".pullRefleshActivity"
             android:exported="false"
             android:screenOrientation="portrait"
-            android:theme="@style/MyTheme"
-            ></activity>
+            android:theme="@style/MyTheme" ></activity>
+
+        <activity android:name=".TextSurfaceActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyTheme" ></activity>
 
 
     </application>
