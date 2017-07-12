@@ -3,15 +3,6 @@
 
     <item
         is-multidex="false"
-        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\in.srain.cube\ptr-load-more\1.0.6\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="4b025c568a4e97b63b8e137400bad367865d5c80">
-        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\in.srain.cube-ptr-load-more-1.0.6_f50a01993dcca12b5663db3b93ffa83caec8e0f3.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.wnafee\vector-compat\1.0.5\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -21,93 +12,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_61b81aa155bbb9a083d81bba459bb672330c062d.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
         <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_925d3c43a0fea17cc63ee6b2c87ded7487022ce1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.ahocorasick\ahocorasick\0.3.0\cdad5220a78701f2c37b4c4fdd20e148393ee178\ahocorasick-0.3.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="cdad5220a78701f2c37b4c4fdd20e148393ee178">
-        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\ahocorasick-0.3.0_79bace7bfd3239a93915e37e204643294209a61e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.promeg\tinypinyin\2.0.3\22120540c46a70cddb4067eee499edc50a429f44\tinypinyin-2.0.3.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="22120540c46a70cddb4067eee499edc50a429f44">
-        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\tinypinyin-2.0.3_fed278cdc8d8fa113eb7125974c2aa38fe2f0d31.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_540a9ff1fa81dd3032700d932988c6b513529eb1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_857e7da731379329ba8ee0cd90f148391540e031.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.android.support\transition\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
-        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.android.support-transition-26.0.0-alpha1_1f1602161841be43f0498237310e7a68f403fd71.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.github.elevenetc\textsurface\0.9.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="88f4d83ae66ad71758931b65ad179a85e6e304ef">
-        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.github.elevenetc-textsurface-0.9.0_b21c88ad77080fcb3977be3a55fb6f9fdb0dd418.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\io.github.yavski\fab-speed-dial\1.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="260500718bdbc6b1abf35bd13746e4baa6ff17fd">
-        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\io.github.yavski-fab-speed-dial-1.0.1_e54fb235d40715f2b7de63a75663db88ee279bcc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.supercwn.superrecycleview\superlibrary\1.2.5\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="072849c8cae5fe3c0971f0a08a342b332e3fd942">
-        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.supercwn.superrecycleview-superlibrary-1.2.5_636ec356c163db1342e5dbd78bb4566e8ca3fc59.jar" />
     </item>
     <item
         is-multidex="false"
@@ -129,57 +39,48 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="023ee503b631f69511e335a061ea008f8da60f40">
-        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_51fde4b16fd0a7eeb280abb2913adc017d9df2c2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_c9a36e80229c78d2de2d502d31be4721e79cedad.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.github.michaldrabik\tapbarmenu\1.0.2\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="71c5a782bf0b1da81b5f751caa671a4b35bcd322">
-        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.github.michaldrabik-tapbarmenu-1.0.2_3fe96871e165bb37c3ad6a06dbb4904f4d06c465.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.alipay.euler\andfix\0.4.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="13e4a228366811ef6357e2b976c1b79b86bf4128">
-        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.alipay.euler-andfix-0.4.0_a80dc0b8efd2b4e044cbc9a767c030b9b5e2bfe0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_05e50619a1a1c17fb84a9791bb8834368efdff22.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
         <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_5d1cb3d68320f7210015e2a7660c45b12f82d093.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_540a9ff1fa81dd3032700d932988c6b513529eb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.promeg\tinypinyin\2.0.3\22120540c46a70cddb4067eee499edc50a429f44\tinypinyin-2.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="22120540c46a70cddb4067eee499edc50a429f44">
+        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\tinypinyin-2.0.3_fed278cdc8d8fa113eb7125974c2aa38fe2f0d31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\io.github.yavski\fab-speed-dial\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="260500718bdbc6b1abf35bd13746e4baa6ff17fd">
+        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\io.github.yavski-fab-speed-dial-1.0.1_e54fb235d40715f2b7de63a75663db88ee279bcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.supercwn.superrecycleview\superlibrary\1.2.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="072849c8cae5fe3c0971f0a08a342b332e3fd942">
+        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.supercwn.superrecycleview-superlibrary-1.2.5_636ec356c163db1342e5dbd78bb4566e8ca3fc59.jar" />
     </item>
     <item
         is-multidex="false"
@@ -192,12 +93,102 @@
     </item>
     <item
         is-multidex="false"
-        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
+        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\in.srain.cube\ptr-load-more\1.0.6\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
-        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.android.support-design-26.0.0-alpha1_e5dc8b82cd4fad6c027b1ade81fe57d17fed4471.jar" />
+        sha1="4b025c568a4e97b63b8e137400bad367865d5c80">
+        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\in.srain.cube-ptr-load-more-1.0.6_f50a01993dcca12b5663db3b93ffa83caec8e0f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_61b81aa155bbb9a083d81bba459bb672330c062d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.ahocorasick\ahocorasick\0.3.0\cdad5220a78701f2c37b4c4fdd20e148393ee178\ahocorasick-0.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cdad5220a78701f2c37b4c4fdd20e148393ee178">
+        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\ahocorasick-0.3.0_79bace7bfd3239a93915e37e204643294209a61e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_857e7da731379329ba8ee0cd90f148391540e031.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.github.elevenetc\textsurface\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88f4d83ae66ad71758931b65ad179a85e6e304ef">
+        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.github.elevenetc-textsurface-0.9.0_b21c88ad77080fcb3977be3a55fb6f9fdb0dd418.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_51fde4b16fd0a7eeb280abb2913adc017d9df2c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.github.michaldrabik\tapbarmenu\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="71c5a782bf0b1da81b5f751caa671a4b35bcd322">
+        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.github.michaldrabik-tapbarmenu-1.0.2_3fe96871e165bb37c3ad6a06dbb4904f4d06c465.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_05e50619a1a1c17fb84a9791bb8834368efdff22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.android.support\transition\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.android.support-transition-26.0.0-alpha1_1f1602161841be43f0498237310e7a68f403fd71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_c9a36e80229c78d2de2d502d31be4721e79cedad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.alipay.euler\andfix\0.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="13e4a228366811ef6357e2b976c1b79b86bf4128">
+        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.alipay.euler-andfix-0.4.0_a80dc0b8efd2b4e044cbc9a767c030b9b5e2bfe0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -207,6 +198,15 @@
         revision="25.0.3"
         sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
         <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.1_8eb01fab96ee6f0ed2d8435b5d6ca8061b705185.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.android.support-design-26.0.0-alpha1_e5dc8b82cd4fad6c027b1ade81fe57d17fed4471.jar" />
     </item>
 
 </items>
