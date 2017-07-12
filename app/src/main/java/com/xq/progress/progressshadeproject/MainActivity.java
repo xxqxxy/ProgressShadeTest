@@ -24,7 +24,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //进度条
-        ((Button) findViewById(R.id.btn_progress)).setText("傻逼啊，你");
+        ((Button) findViewById(R.id.btn_progress)).setText("别点");
         ((Button) findViewById(R.id.btn_progress)).setOnClickListener(new OnClickListener() {
 
             @Override
@@ -91,6 +91,17 @@ public class MainActivity extends Activity {
                 startActivity(new Intent(mContext,TextSurfaceActivity.class));
             }
         });
+
+        //RecycleView
+        ((Button) findViewById(R.id.btn_recycle)).setOnClickListener(new OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(mContext,RecycleViewLoadMoreWidthRelfreshActivity.class));
+            }
+        });
+
+
     }
 
 

@@ -50,6 +50,11 @@
             android:theme="@style/MyTheme" ></activity>
 
 
+        <activity android:name=".RecycleViewLoadMoreWidthRelfreshActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyTheme"></activity>
+
     </application>
 
 </manifest>

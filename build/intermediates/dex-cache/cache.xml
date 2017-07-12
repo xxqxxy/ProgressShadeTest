@@ -39,6 +39,24 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.ahocorasick\ahocorasick\0.3.0\cdad5220a78701f2c37b4c4fdd20e148393ee178\ahocorasick-0.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cdad5220a78701f2c37b4c4fdd20e148393ee178">
+        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\ahocorasick-0.3.0_79bace7bfd3239a93915e37e204643294209a61e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.promeg\tinypinyin\2.0.3\22120540c46a70cddb4067eee499edc50a429f44\tinypinyin-2.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="22120540c46a70cddb4067eee499edc50a429f44">
+        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\tinypinyin-2.0.3_fed278cdc8d8fa113eb7125974c2aa38fe2f0d31.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -81,6 +99,15 @@
         revision="25.0.3"
         sha1="260500718bdbc6b1abf35bd13746e4baa6ff17fd">
         <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\io.github.yavski-fab-speed-dial-1.0.1_e54fb235d40715f2b7de63a75663db88ee279bcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\exploded-aar\com.supercwn.superrecycleview\superlibrary\1.2.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="072849c8cae5fe3c0971f0a08a342b332e3fd942">
+        <dex dex="E:\AndroidCompanyCode\projects\ProgressShadeProject\app\build\intermediates\pre-dexed\debug\com.supercwn.superrecycleview-superlibrary-1.2.5_636ec356c163db1342e5dbd78bb4566e8ca3fc59.jar" />
     </item>
     <item
         is-multidex="false"
