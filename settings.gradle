@@ -1,1 +1,1 @@
-include ':app', ':library', ':superlibrary', ':ComUtils'
+include ':app', ':library', ':superlibrary', ':ComUtils', ':comutilslibary'

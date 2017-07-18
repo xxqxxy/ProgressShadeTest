@@ -102,6 +102,27 @@ public class MainActivity extends Activity {
         });
 
 
+        ((Button) findViewById(R.id.btn_gallery)).setOnClickListener(new OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(mContext,GalleryActivity.class));
+            }
+        });
+
+
+
+        ((Button) findViewById(R.id. btn_pull_listview)).setOnClickListener(new OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(mContext,pullListViewActivity.class));
+            }
+        });
+
+
+
+
     }
 
 

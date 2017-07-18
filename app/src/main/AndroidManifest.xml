@@ -55,6 +55,19 @@
             android:screenOrientation="portrait"
             android:theme="@style/MyTheme"></activity>
 
+        <activity android:name=".GalleryActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            ></activity>
+
+        <activity android:name=".pullListViewActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            ></activity>
+
+
+
+
     </application>
 
 </manifest>

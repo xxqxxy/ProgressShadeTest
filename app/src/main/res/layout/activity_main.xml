@@ -84,6 +84,22 @@
                 android:text="RecycleView" android:gravity="center"
                 android:background="@color/cr_green_5" android:id="@+id/btn_recycle"
                 android:layout_marginLeft="36dp" android:layout_marginRight="36dp"
+                android:layout_marginTop="16dp" android:visibility="gone" />
+
+
+            <Button android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:padding="8dp" android:textSize="18sp" android:textColor="@color/cr_white"
+                android:text="Gallery" android:gravity="center"
+                android:background="@color/cr_green_5" android:id="@+id/btn_gallery"
+                android:layout_marginLeft="36dp" android:layout_marginRight="36dp"
+                android:layout_marginTop="16dp"  />
+
+
+            <Button android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:padding="8dp" android:textSize="18sp" android:textColor="@color/cr_white"
+                android:text="PullToReflreshListView" android:gravity="center"
+                android:background="@color/cr_green_5" android:id="@+id/btn_pull_listview"
+                android:layout_marginLeft="36dp" android:layout_marginRight="36dp"
                 android:layout_marginTop="16dp"  />
 
 <!--
